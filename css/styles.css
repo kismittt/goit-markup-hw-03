@@ -126,6 +126,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .p_sec_three {
   font-size: 16px;
@@ -250,3 +251,21 @@ address {
   border-radius: 5px; 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
  }
+ .visually-hidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+.ul_sec_ttwo{
+  display: flex;
+  gap: 24px;
+
+}
+.li_ul_sec_ttwo{
+  width: calc((100% - 72px) / 4); 
+}
