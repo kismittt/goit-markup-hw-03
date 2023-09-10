@@ -44,8 +44,8 @@ body {
 
 .address {
   font-style: normal;
-  display: flex; 
-  gap: 40px;
+  
+  
 }
 /* 
 .href:hover {
@@ -220,4 +220,8 @@ div{
   gap: 40px;
   
 
+}
+.address_ul {
+  gap: 40px;
+  display: flex;
 }
