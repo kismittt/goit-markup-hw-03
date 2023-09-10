@@ -3,6 +3,15 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+
+/* 111111111111111111111111111 */
+a {
+  text-decoretion: none;
+  }
+  
+  ul {
+  list-style: none;
+  }
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
