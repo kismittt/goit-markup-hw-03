@@ -56,6 +56,8 @@ body {
 } */
 .section {
   background-color: #2e2f42;
+  padding: 188px 0;
+  
 }
 /* .h-section {
   font-size: 56px;
@@ -226,5 +228,5 @@ div{
   display: flex;
 }
 address {
-  
+
 }
