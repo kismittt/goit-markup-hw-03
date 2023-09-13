@@ -240,7 +240,9 @@ div {
 .ull {
   display: flex;
   gap: 40px;
+  padding-left: 0;
 }
+/* 2222222222222222222222222222222222222222 */
 .address_ul {
   gap: 40px;
   display: flex;
@@ -253,7 +255,6 @@ div {
 }
 
 .container {
-  
   margin: 0 auto;
   padding: 20px;
   background-color: #f0f0f0;
@@ -317,6 +318,6 @@ div {
 .h4,
 .h5,
 .h6,
-p {
+.p {
   margin: 0;
 }
