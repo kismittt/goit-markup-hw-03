@@ -227,6 +227,7 @@ img {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  display: flex;
 }
 div {
   display: flex;
@@ -297,6 +298,7 @@ div {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  padding-left: 0;
 }
 .li_ul_sec_ff {
   width: calc((100% - 48px) / 3);
