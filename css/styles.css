@@ -228,6 +228,7 @@ img {
   margin: 0 auto;
   padding: 0 15px;
   display: flex;
+  padding-left: 0;
 }
 div {
   display: flex;
@@ -309,4 +310,13 @@ div {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+p {
+  margin: 0;
 }
