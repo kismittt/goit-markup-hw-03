@@ -91,6 +91,7 @@ ul {
   height: 56px;
   border: none;
   border-radius: 4px;
+  display: block;
 }
 .button:hover {
   background-color: #404bbf;
@@ -186,7 +187,7 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin-bottom: 8px;
+  margin-bottom: 8px; 
 }
 .p_sec_ff {
   font-size: 16px;
