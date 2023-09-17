@@ -348,3 +348,12 @@ h6,
 p {
   margin: 0;
 }
+.sec_2_svg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
